@@ -126,5 +126,5 @@ The system implements comprehensive error handling for:
 3. Implement rate limiting
 4. Add proxy support
 5. Create bulk processing capability
-6. adding summerizatiooon to review
-7. adding sentimental analysis 
+6. Adding summerization to review
+7. Adding sentimental analysis 
