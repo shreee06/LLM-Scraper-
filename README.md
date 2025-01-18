@@ -126,12 +126,5 @@ The system implements comprehensive error handling for:
 3. Implement rate limiting
 4. Add proxy support
 5. Create bulk processing capability
-
-## Contributing
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+6. adding summerizatiooon to review
+7. adding sentimental analysis 
